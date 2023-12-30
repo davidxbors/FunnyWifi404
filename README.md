@@ -3,7 +3,8 @@
 FunnyWifi404 is a simple and not very efficient Wifi password cracker.
 It's meant to be used on OSX devices, where other alternatives don't really work or are a hassle.
 By no means is this an efficient tool, meant to be used in professional environments.
-** Use this tool only against networks whose owner's gave you explicit permission to use it. **
+
+**Use this tool only against networks whose owner's gave you explicit permission to use it.**
 
 ## Install
 
